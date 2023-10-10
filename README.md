@@ -10,6 +10,8 @@ Use Github Desktop for easy cloning or :
 4.To clone the repository using HTTPS, under "HTTPS", copy the url
 5.Then, in your VScode termminal or cmd type this command: git clone https://github.com/DrrylPns/AGreenNature.git   ##Make sure you already config your Git.
 
+Don't forget to type "npm install" to the terminal after you clone the repository.
+
 Please refer to this link if you want to see any other command https://education.github.com/git-cheat-sheet-education.pdf
 ## Getting Started
 
