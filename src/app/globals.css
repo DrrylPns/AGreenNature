@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body {
+    height: 50vh;
+    max-width: 100%;
+    border: black 2px solid;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.container h1 {
+    margin: 0px;
+}
+
