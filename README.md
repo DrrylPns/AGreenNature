@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Clone Repository
+
+Use Github Desktop for easy cloning or :
+
+1.On GitHub.com, navigate to the main page of the repository.
+2.Click  <>Code button.
+3.Copy the URL for the repository.
+4.To clone the repository using HTTPS, under "HTTPS", copy the url
+5.Then, in your VScode termminal or cmd type this command: git clone https://github.com/DrrylPns/AGreenNature.git   ##Make sure you already config your Git.
+
+Please refer to this link if you want to see any other command https://education.github.com/git-cheat-sheet-education.pdf
 ## Getting Started
 
 First, run the development server:
