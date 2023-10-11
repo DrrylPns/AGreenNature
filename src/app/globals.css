@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body {
+    height: 100vh;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: black 2px solid;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+.container h1 {
+    margin: 0px;
+}
+
