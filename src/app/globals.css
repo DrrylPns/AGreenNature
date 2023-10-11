@@ -4,16 +4,20 @@
 
 
 body {
-    height: 50vh;
+    height: 100vh;
     max-width: 100%;
-    border: black 2px solid;
-}
-
-.container {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.container {
+    border: black 2px solid;
+    display: grid;
+    justify-content: center;
+    align-items: center;
     height: 30vh;
+    border-radius: 10px;
 }
 
 .container h1 {
