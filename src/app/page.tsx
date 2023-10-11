@@ -1,7 +1,7 @@
-import Image from 'next/image'
+import Image from "next/image";
 
 export default function Home() {
   return (
-    <h1>Hello World Testing</h1>
+    <h1 className='bg-red-100'>Practice Merge Request</h1>
   )
 }
